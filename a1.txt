@@ -1,2 +1,6 @@
 a1
+<<<<<<< HEAD
 modified again in master
+=======
+modified in first branch
+>>>>>>> first
